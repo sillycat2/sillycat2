@@ -1,2 +1,2 @@
-我是micronation阿玛宗共和国的总统<font color=Blue>云晶·雪<font color>，旁边这位小妹妹是外交部长<font color=pink>萱怡·白梦<font color>。
-
+我是micronation阿玛宗共和国的总统云晶·雪，她是外交部长萱怡·白梦，就是头像上的。
+我们居住在Picafloria首都特区的独立宫里。
