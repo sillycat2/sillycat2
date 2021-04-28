@@ -20,5 +20,5 @@
 
 她收集漂亮的小物。她用gnome。
 
-她想和[cld](https://github.com/Cloudifold)结拜为姐妹。
+她的结拜姐妹是[cld](https://github.com/Cloudifold)
 
