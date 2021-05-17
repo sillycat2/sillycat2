@@ -1,3 +1,4 @@
+
 欢迎来到我的github！
 
 我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），这位小妹妹是外交部长萱怡·白梦
@@ -25,16 +26,9 @@
 她收集漂亮的小物。她用gnome。
 
 她的结拜姐妹是[cld](https://github.com/Cloudifold)
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/1920px-Sun-Logo.svg.png" width=800px>
-
 ****
 
-<img src="https://huiji-public.huijistatic.com/qunxing/uploads/7/7e/Evant_arguing_senate.png" width=400px>
+![Metrics](https://metrics.lecoq.io/sillycat2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&languages=1&stars=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FBucharest)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/1920px-Sun-Logo.svg.png" width=400px>
 
-<img src="https://huiji-public.huijistatic.com/qunxing/uploads/a/ab/Evant_galactic_senate.png" width=400px>
-
-
-<img src="https://huiji-public.huijistatic.com/qunxing/uploads/e/e0/Evant_fleet_good.png" width=400px>
