@@ -26,9 +26,24 @@
 她收集漂亮的小物。她用gnome。
 
 她的结拜姐妹是[cld](https://github.com/Cloudifold)
-****
 
+<html>
+<table>
+<tr>
+<td width="50%">
+              
 ![Metrics](https://metrics.lecoq.io/sillycat2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&languages=1&stars=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&stars.limit=4&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FBucharest)
+            
+</td>
+<td width="50%">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sun-Logo.svg/1920px-Sun-Logo.svg.png" width=400px>
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ISS_configuration_2019-08.png/800px-ISS_configuration_2019-08.png)
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/db/Super_heavy-lift_launch_vehicles.png)
+
+
+</td>
+</tr>
+</table>
+</html>
