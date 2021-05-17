@@ -1,3 +1,5 @@
+欢迎来到我的github！
+
 我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），她是外交部长萱怡·白梦。头像就是她。
 
 我们来自矩阵外一个甜童话风格的星球。
@@ -21,6 +23,4 @@
 她收集漂亮的小物。她用gnome。
 
 她的结拜姐妹是[cld](https://github.com/Cloudifold)
-
-我和她用笔名“笨猫”一起写短诗和小说。
 
