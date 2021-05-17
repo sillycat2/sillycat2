@@ -1,6 +1,8 @@
 欢迎来到我的github！
 
-我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），她是外交部长萱怡·白梦。头像就是她。
+我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），这位小妹妹是外交部长萱怡·白梦
+
+（最近换头像了，别认不出咱啊23333）
 
 我们来自矩阵外一个甜童话风格的星球。
 
