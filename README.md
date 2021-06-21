@@ -1,6 +1,6 @@
 欢迎来到我的github！
 
-我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），笔名是笨猫（Sillycat），这位妹妹是外交部长萱怡·白梦
+我是micronation[阿玛宗共和国](https://micronations.wiki/wiki/Republic_of_Amazonia)的总统云晶妍雪（Vân Tinh Nghiên Tuyết），笔名是笨猫（Sillycat），这是我妹妹，外交部长萱怡·白梦
 
 （最近换头像了，别认不出咱啊23333）
 
