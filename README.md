@@ -1,11 +1,6 @@
 <h1>
 <center>
-When Liberty from Greece withdrew,<br>
-And o'er the Adriatic flew,<br>
-To where the Tiber pours his urn,<br>
-She struck the rude Tarpeian rock;<br>
-Sparks were kindled by the shock—<br>
-Again thy fires began to burn.<br>
+自由 平等 博爱
 </center>
 </h1>
 
